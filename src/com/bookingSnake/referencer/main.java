@@ -7,14 +7,13 @@ public class main {
 
     public static void main (String args[]){
 
+//   String foo = "Hello";
 
-        String foo = "Hello";
-
-        System.out.println(foo);
-
+   //    System.out.println(foo);
 
 
-        
+
+
 
 
 
